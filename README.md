@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lucky Alani</h1>
+<h1 align="center">Hi 👋, I'm Nagesh Lama</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🙌  worked at 
 
-- 👨‍💻 All of my projects are available at [https://github.com/luckyalani)
+- 👨‍💻 All of my projects are available at [https://github.com/vnsh123/Code-project)
 
-- 📫 How to reach me **luckyalani665@gmail.com**
+- 📫 How to reach me **nageshlama45@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KYV5jGf3E6a55g4BZd27MzgoWP46wT6W/view?usp=sharing](https://drive.google.com/file/d/1KYV5jGf3E6a55g4BZd27MzgoWP46wT6W/view?usp=sharing)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
